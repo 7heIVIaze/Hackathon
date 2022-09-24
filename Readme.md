@@ -2,7 +2,7 @@
 ===
 
 ## 1. 팀명 
-* Algorithm & Science for Society Association (ASSA)
+* Algorithm & Science for Society Association (이하 ASSA)
 
 * 조원
     + 박준하(팀장)
