@@ -1,4 +1,8 @@
 //플레이어가 입장할 때 실행
+App.onJoinPlayer.Add(function(player) {
+    App.showCenterLabel(`팔공산 정상`);
+})
+
 App.onJoinPlayer.Add(function (player) {
 	App.playSound("Sailing - Telecasted.mp3", false, false);
 });
