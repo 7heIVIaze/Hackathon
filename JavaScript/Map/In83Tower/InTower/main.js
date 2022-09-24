@@ -1,3 +1,7 @@
+App.onJoinPlayer.Add(function(player) {
+    App.showCenterLabel(`83타워 내부`);
+})
+
 App.onJoinPlayer.Add((player)=> {
     player.playSoundLink("https://classical-sound.up.seesaa.net/image/020-Corelli-La-Follia.mp3", true);
 })

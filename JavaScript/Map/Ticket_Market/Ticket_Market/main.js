@@ -1,3 +1,8 @@
+App.onJoinPlayer.Add(function(player) {
+    App.showCenterLabel(`매표소`);
+})
+
+
 let blueman = App.loadSpritesheet("CableCar-removebg-preview.png");
 // q 키를 누르면 동작하는 함수
 
