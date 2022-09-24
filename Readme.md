@@ -5,9 +5,9 @@
 * Algorithm & Science for Society Association (ASSA)
 
 * 조원
-> 1. 박준하(팀장)
-> 2. 최민수
-> 3. 김성곤
+    + 박준하(팀장)
+    + 최민수
+    + 김성곤
 
 ## 2. 제출 세션 및 주제
 * 자유세션: 
