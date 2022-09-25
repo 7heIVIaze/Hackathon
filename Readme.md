@@ -23,7 +23,7 @@
 * JavaScript
 
 ## 6. 시연 영상
-Link: [유튜브 시연 영상](https://youtube.com "시연 영상 보기")
+Link: [유튜브 시연 영상](https://www.youtube.com/watch?v=fDOY4_3xmRA "시연 영상 보기")
 
 ## 7. 탐방해보기
 Link: [메타버스 입장](https://zep.us/play/2pW6v6 "대구 랜드마크 탐방")
